@@ -56,7 +56,6 @@ class AlarmService {
         pill.reminderTime,
         forceNextDay: forceNextDay,
       ),
-      assetAudioPath: 'assets/sounds/alarm.mp3',
       loopAudio: true,
       vibrate: true,
       androidFullScreenIntent: true,
